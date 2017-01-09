@@ -1,5 +1,5 @@
 ---------------------------
----- not completed. just logic. need bit operation
+---- not completed. just logic. need bit operation. by twogold
 -----------------------------
 
 
